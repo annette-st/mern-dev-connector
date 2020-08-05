@@ -1,2 +1,2 @@
 # mern-dev-connector
-a MERN-stack application
+* a MERN-stack application
